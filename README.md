@@ -1,5 +1,5 @@
 # Skate Mod (Fabric, Minecraft 26.1.2)
-
+DOWNLOAD THE SKATEMOD.ZIP FILE EXTRACT IT AND OPEN IT
 ## Setup
 1. Fill in the `CHANGE_ME` values in `gradle.properties` with the Loader, Fabric API, Mod Menu and Loom versions for 26.1.2 (see https://fabricmc.net/develop).
 2. Skins and models are already generated. To regenerate: `python3 tools/generate_skins.py`
